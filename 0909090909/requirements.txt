@@ -1,0 +1,1 @@
+pydantic>=2,<3\nemail-validator>=2\npytest>=8\nruff>=0.6\n
